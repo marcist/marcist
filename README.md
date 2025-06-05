@@ -1,35 +1,25 @@
-# 👨‍💻 Just a tech guy
+# 🧠 Tech guy. Heartwired. Glitch-coded.
 
-Hi, I’m [Marcis].  
-I build small things that try to help in big ways.  
-Leveraging what the world offers — tools, tech, and time
+Hey, I’m [Marcis].  
+Not a guru. Not a brand.  
+Just someone who feels too much, thinks too far, and builds through the chaos.
 
----
+Dropped out of college, but I never stop learning.
 
-## 🧰 What I Use
-- Python, JavaScript  
-- Django, Firebase  
-- GitHub, Replit  
-- HTML, CSS and more tools
+I learn what matters.  
+I create what echoes.  
+I disappear when the noise gets too loud.  
+And I return when I’m ready to burn brighter.
 
----
+## ⚡ What I touch:
+- Code that means something  
+- Projects born from silence, not trends  
+- Music, books, films that crack the shell  
+- Solitude, not loneliness  
+- Reality, not performance
 
-## 🛠 What I Like Doing
-- Breaking things
-- Fixing things  
-- Cleaning things   
-- Playing guitar 🎸 
-- Taking random pics 📸
-- Editing 
-- Creating systems that help others
+I’m just trying to be real to myself
 
----
+If you're here to build with soul, welcome.
 
-> Still learning. Still building. Still trying to make things that matter.
-
-
----
-<!---
-marcist/marcist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+M
